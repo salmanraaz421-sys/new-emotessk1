@@ -1,12 +1,10 @@
 flask
-gunicorn
 requests
-aiohttp
-urllib3
 psutil
-pytz
 pyjwt
-pycryptodome
-protobuf
+urllib3
+pytz
+aiohttp
 protobuf-decoder
-cfonts
+pycryptodome
+python-cfonts
